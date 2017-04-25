@@ -296,7 +296,7 @@
 	}
 
 		form .field {
-			margin: 0 0 1.5rem 0;
+			margin: 1.5rem 0 1.5rem 0;
 		}
 
 			form .field.half {
@@ -316,7 +316,7 @@
 		@media screen and (max-width: 736px) {
 
 			form .field {
-				margin: 0 0 1.125rem 0;
+				margin: 1.125rem 0 1.125rem 0;
 			}
 
 				form .field.half {
